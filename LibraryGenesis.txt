@@ -192,8 +192,8 @@ TitleIcon.BackgroundColor3 = Color3.new(1, 1, 1)
 TitleIcon.BackgroundTransparency = 1
 TitleIcon.Position = UDim2.new(0, 10, 0, 2)
 TitleIcon.Size = UDim2.new(0, 16, 0, 16)
-TitleIcon.Image = "rbxassetid://120548975033360"
-TitleIcon.ZIndex = Title.ZIndex + 1
+TitleIcon.Image = "http://www.roblox.com/asset/?id=120548975033360"  
+TitleIcon.ZIndex = 10
 
 TabSelection.Name = "TabSelection"
 TabSelection.Parent = Window
