@@ -194,6 +194,15 @@ TitleIcon.Position = UDim2.new(0, 10, 0, 5)
 TitleIcon.Size = UDim2.new(0, 16, 0, 16)
 TitleIcon.Image = "rbxassetid://120548975033360"
 
+local TitleIcon = Instance.new("ImageLabel")
+TitleIcon.Name = "TitleIcon"
+TitleIcon.Parent = Window
+TitleIcon.BackgroundColor3 = Color3.new(1, 1, 1)
+TitleIcon.BackgroundTransparency = 1
+TitleIcon.Position = UDim2.new(0, 10, 0, 5)
+TitleIcon.Size = UDim2.new(0, 16, 0, 16)
+TitleIcon.Image = "rbxassetid://120548975033360"
+
 TabSelection.Name = "TabSelection"
 TabSelection.Parent = Window
 TabSelection.BackgroundColor3 = Color3.new(1, 1, 1)
